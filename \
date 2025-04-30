@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#array
+
+myArry =( 1 20 rohit "ram" )
+
+echo "${myArry[3]}"_
